@@ -9,4 +9,4 @@ Jtpatato21/Jtpatato21 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-![](https://komarev.com/ghpvc/?username=santiagobaronz&color=blue)
+![](https://komarev.com/ghpvc/?username=Jtpatato21&color=red)
